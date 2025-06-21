@@ -5,8 +5,9 @@ A **Command-Line Interface (CLI)** based Java project that simulates a simplifie
 ---
 
 ## 📁 Folder Structure
-
+<br>
 src/
+<br>
 ├── entity/ → Contains model classes like Movie, Show, Seat, Booking
 <br>
 ├── config/ → Manages SQL connection setup using JDBC
@@ -74,6 +75,7 @@ src/
 
 For suggestions, collaborations, or feedback:  
 📧 Email: mayankgupta23081@gmail.com
+<br>
 🔗 LinkedIn: https://linkedin.com/in/mayank-g22
 
 ---
