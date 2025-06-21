@@ -8,8 +8,11 @@ A **Command-Line Interface (CLI)** based Java project that simulates a simplifie
 
 src/
 ├── entity/ → Contains model classes like Movie, Show, Seat, Booking
+<br>
 ├── config/ → Manages SQL connection setup using JDBC
+<br>
 ├── service/ → Contains business logic and handles user interaction
+<br>
 
 
 ---
@@ -66,14 +69,6 @@ src/
 
 ---
 
-## 📸 Screenshots
-
-> *(Optional: You can add screenshots here later to visually demonstrate the flow)*  
-> - Movie list  
-> - Seat selection  
-> - Booking confirmation  
-
----
 
 ## 📬 Contact
 
