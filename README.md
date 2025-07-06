@@ -1,4 +1,4 @@
-#  Movie Ticket Booking System (CMD Based – Java + JDBC + MySQL)
+#  🎬 Movie Ticket Booking System (CMD Based – Java + JDBC + MySQL)
 
 A **Command-Line Interface (CLI)** based Java project that simulates a simplified version of **BookMyShow**. This system allows users to browse movies, select showtimes, view available seats, and book tickets. It is built using **Java**, **JDBC**, and **MySQL**, showcasing core backend and database handling skills.
 
