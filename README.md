@@ -1,10 +1,10 @@
-# 🎬 Movie Ticket Booking System (CMD Based – Java + JDBC + MySQL)
+#  Movie Ticket Booking System (CMD Based – Java + JDBC + MySQL)
 
 A **Command-Line Interface (CLI)** based Java project that simulates a simplified version of **BookMyShow**. This system allows users to browse movies, select showtimes, view available seats, and book tickets. It is built using **Java**, **JDBC**, and **MySQL**, showcasing core backend and database handling skills.
 
 ---
 
-## 📁 Folder Structure
+##  Folder Structure
 <br>
 src/
 <br>
@@ -18,7 +18,7 @@ src/
 
 ---
 
-## 🔧 Technologies Used
+##  Technologies Used
 
 - **Java** (Object-Oriented Programming, CLI Interaction)
 - **JDBC** (Java Database Connectivity)
@@ -26,7 +26,7 @@ src/
 
 ---
 
-## 💡 Features
+##  Features
 
 - View a list of movies and their showtimes  
 - Select a movie and preferred showtime  
@@ -37,7 +37,7 @@ src/
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 1. Make sure MySQL is installed and running on your system  
 2. Update your database credentials in the JDBC config file (inside the `config` package)  
@@ -50,7 +50,7 @@ src/
 
 ---
 
-## 🧠 Concepts Demonstrated
+##  Concepts Demonstrated
 
 - Modular architecture in Java using packages  
 - JDBC integration for performing database operations  
@@ -60,7 +60,7 @@ src/
 
 ---
 
-## 📌 Future Enhancements
+##  Future Enhancements
 
 - Add GUI using Java Swing or JavaFX  
 - User login and registration  
@@ -71,7 +71,7 @@ src/
 ---
 
 
-## 📬 Contact
+##  Contact
 
 For suggestions, collaborations, or feedback:  
 📧 Email: mayankgupta23081@gmail.com
